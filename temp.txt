@@ -1,0 +1,6 @@
+img[style|class|id|src|alt|width|height|title],
+span[class|id|style],
+iframe[src|width|height|name|title|align|class|id],
+ol[class|compact<compact|dir<ltr?rtl|id|lang|onclick|ondblclick|onkeydown|onkeypress|onkeyup|onmousedown|onmousemove|onmouseout|onmouseover|onmouseup|start|style|title|type],
+form[accept|accept-charset|action|class|dir<ltr?rtl|enctype|id|lang|method<get?post?GET?POST|name|onclick|ondblclick|onkeydown|onkeypress|onkeyup|onmousedown|onmousemove|onmouseout|onmouseover|onmouseup|onreset|onsubmit|style|title|target],
+svg,use,!pre,#i[class|style],t4[type|name|id|width|height|title]
